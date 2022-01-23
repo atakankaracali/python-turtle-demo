@@ -47,7 +47,7 @@ Atakan Karacali. Software Engineer.
 
 - Linkedin -> atakankaracali ,
 -  
-- Github -> atakankaracali,
+- Github -> https://www.linkedin.com/in/atakankaracali/ ,
 -  
 - G-mail -> atakan.karacali97@gmail.com
 - 
